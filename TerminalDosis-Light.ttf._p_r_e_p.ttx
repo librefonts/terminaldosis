@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      PUSHB[ ]  /* 1 value pushed */
+      22
+      CALL[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      511
+      SCANCTRL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      SCANTYPE[ ]
+      SVTCA[0]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      8
+      LT[ ]
+      IF[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      1 1
+      INSTCTRL[ ]
+      EIF[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      70 6
+      CALL[ ]
+      IF[ ]
+      POP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      16
+      EIF[ ]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      20
+      GT[ ]
+      IF[ ]
+      POP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      128
+      EIF[ ]
+      SCVTCI[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      6
+      CALL[ ]
+      NOT[ ]
+      IF[ ]
+      SVTCA[0]
+      PUSHB[ ]  /* 1 value pushed */
+      4
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      10
+      DUP[ ]
+      RCVT[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      4 261 2
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      9
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      10 177 2
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      8
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      9 136 2
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      7
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      8 115 2
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      6
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      7 73 2
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      5
+      DUP[ ]
+      RCVT[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      6 500 2
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      11
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      4 28 2
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      12
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      11 21 2
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      SVTCA[1]
+      PUSHB[ ]  /* 1 value pushed */
+      13
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      18
+      DUP[ ]
+      RCVT[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      13 510 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      17
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      18 170 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      16
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      17 130 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      15
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      16 110 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      14
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      15 90 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      19
+      DUP[ ]
+      RCVT[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      13 32767 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      20
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      19 69 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      21
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      20 27 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      22
+      DUP[ ]
+      RCVT[ ]
+      PUSHB[ ]  /* 3 values pushed */
+      21 10 2
+      CALL[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      EIF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      20
+      CALL[ ]
+    </assembly>
+  </prep>
+
+</ttFont>
