@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [TerminalDosis-Regular.ttf.ttx, TerminalDosis-SemiBold.ttf.ttx, TerminalDosis-Bold.ttf.ttx,
+  TerminalDosis-Medium.ttf.ttx, TerminalDosis-ExtraLight.ttf.ttx, TerminalDosis-ExtraBold.ttf.ttx,
+  TerminalDosis-Light.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

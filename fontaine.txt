@@ -1,0 +1,289 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Terminal Dosis
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com), with Reserved Font Name Dosis.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.007
+    Vendor: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Vendor url: www.impallari.com
+    Designer: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Designer url: www.impallari.com
+    Glyph count: 421
+    Character count: 409
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 17
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Terminal Dosis
+    Sub family: SemiBold
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com), with Reserved Font Name Dosis.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.007
+    Vendor: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Vendor url: www.impallari.com
+    Designer: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Designer url: www.impallari.com
+    Glyph count: 421
+    Character count: 409
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 17
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Terminal Dosis
+    Sub family: Bold
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by EdgarTolentino, PabloImpallari, IginoMarini. All rights reserved.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.006
+    Vendor: EdgarTolentino, PabloImpallari, IginoMarini
+    Vendor url: www.impallari.com
+    Designer: EdgarTolentino, PabloImpallari, IginoMarini
+    Designer url: www.impallari.com
+    Glyph count: 421
+    Character count: 409
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 17
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Terminal Dosis
+    Sub family: Medium
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com), with Reserved Font Name Dosis.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.007
+    Vendor: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Vendor url: www.impallari.com
+    Designer: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Designer url: www.impallari.com
+    Glyph count: 421
+    Character count: 409
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 17
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Terminal Dosis
+    Sub family: ExtraLight
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com), with Reserved Font Name Dosis.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.007
+    Vendor: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Vendor url: www.impallari.com
+    Designer: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Designer url: www.impallari.com
+    Glyph count: 421
+    Character count: 409
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 17
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Terminal Dosis
+    Sub family: ExtraBold
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by EdgarTolentino, PabloImpallari, IginoMarini. All rights reserved.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.006
+    Vendor: EdgarTolentino, PabloImpallari, IginoMarini
+    Vendor url: www.impallari.com
+    Designer: EdgarTolentino, PabloImpallari, IginoMarini
+    Designer url: www.impallari.com
+    Glyph count: 421
+    Character count: 409
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 17
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Terminal Dosis
+    Sub family: Light
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Edgar Tolentino, Pablo Impallari, Igino Marini (impallari.com), with Reserved Font Name Dosis.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.007
+    Vendor: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Vendor url: www.impallari.com
+    Designer: Edgar Tolentino, Pablo Impallari, Igino Marini
+    Designer url: www.impallari.com
+    Glyph count: 421
+    Character count: 409
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 17
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
